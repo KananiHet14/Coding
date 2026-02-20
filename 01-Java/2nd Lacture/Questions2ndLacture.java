@@ -48,6 +48,31 @@ public class Questions2ndLacture {
         // }
         // System.out.println(c);
 
-        
+        // question = count specif number how many time its repeated in input number
+        // Scanner input = new Scanner(System.in);
+        // int n = input.nextInt();
+        // int m = input.nextInt();
+        // int count = 0;
+        // while(n>0) {
+        //     int rem = n%10;
+        //     if(rem == m) {
+        //         count++;
+        //     }
+        //     n /= 10;
+        // }
+        // System.out.println("Number of times " + m + " appears: " + count);
+
+        // question reverse a number
+        // Scanner input = new Scanner(System.in);
+        // int number = input.nextInt();
+        // int reversed = 0;
+        // while(number != 0) {
+        //     int rem = number % 10;
+        //     number /= 10;
+        //     reversed = reversed * 10 + rem;
+
+
+        // }
+        // System.out.println("Reversed number is: " + reversed);
     }
 }
