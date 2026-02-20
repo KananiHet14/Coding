@@ -22,7 +22,7 @@ public class Questions2ndLacture {
         // System.out.println("largest of 3 number is : " + max);
 
 
-        // quyestion = case cheking of character upper case of lower case
+        // question = case cheking of character upper case of lower case
         // Scanner input = new Scanner(System.in);
         // char ch = input.next().trim().charAt(0);
 
@@ -33,6 +33,21 @@ public class Questions2ndLacture {
         // }
 
     
+        // question =  find the nth fibonaci numbers
+        // Scanner input = new Scanner(System.in);
+        // int n = input.nextInt();
+        // int p = 0;
+        // int c = 1;
+        // int count = 2;
+        // while(count<=n) {
+        //     int temp = c;
+        //     c = p+c;
+        //     p = temp;
+        //     count++;
 
+        // }
+        // System.out.println(c);
+
+        
     }
 }
